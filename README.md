@@ -13,5 +13,7 @@ I'm a Computer Science student at the University of Alberta with a passion for f
 ## 🛠️ Languages and Tools
 - Python, C++, JavaScript, Java, C#, React.js, Node.js, Flask, Docker, AWS, Git
 
-## 📊 GitHub Stats
-![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarongeo1&show_icons=true&theme=radical)
+## 📈 GitHub Activity
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aarongeo1&theme=react-dark&hide_border=true)
+
