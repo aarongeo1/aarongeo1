@@ -32,11 +32,6 @@ I'm a Computer Science student at the University of Alberta with a passion for f
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-4EAA25?style=for-the-badge&logo=linux&logoColor=white)
 
-## 🏆 GitHub Achievements
-
-![trophy](https://github-profile-trophy.vercel.app/?username=aarongeo1&theme=darkhub)
-
-
 
 
 
