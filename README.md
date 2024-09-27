@@ -7,9 +7,6 @@ I'm a Computer Science student at the University of Alberta with a passion for f
 - 👯 I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/aaronbinoy) | [Portfolio](https://aaronbinoy.link)
 
-## ⚡ Fun Facts
-- I love discovering hidden gems and local spots when I travel!
-
 ## 🛠️ Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
