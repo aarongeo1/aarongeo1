@@ -4,7 +4,7 @@
 I'm Software developer and a Honors CS major at the University of Alberta with a passion for full-stack development and Machine Learning.
 
 - 🧠 I'm interested in Machine Learning, IoT, and full-stack development.
--- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/aaronbinoy) 
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/aaronbinoy) 
 
 ## 🛠️ Tools & Technologies
 
