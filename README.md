@@ -1,7 +1,7 @@
 # Hi, I'm Aaron Binoy! 👋
 
 ## 🚀 About Me
-I'm Software developer and a Honors CS major at the University of Alberta with a passion for full-stack development and Machine Learning.
+I'm Software developer and a Honors CS major at the University of Alberta who lives building stuff.
 
 - 🧠 I'm interested in Machine Learning, IoT, and full-stack development.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/aaronbinoy) 
